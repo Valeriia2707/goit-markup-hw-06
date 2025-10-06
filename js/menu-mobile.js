@@ -1,5 +1,5 @@
 const burgerEl = document.querySelector(".mobile-nav-button");
-const closeBtnEl = document.querySelector(".modal-close-button");
+const closeBtnEl = document.querySelector(".mobile-modal-close-button");
 const mobMenuEl = document.querySelector(".mobile-modal");
 const bodyEl = document.body;
 
